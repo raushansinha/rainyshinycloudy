@@ -1,0 +1,69 @@
+Weather URL: http://samples.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=b1b15e88fa797225412429c1c50c122a1
+2017-06-19 05:01:59.984525-0400 rainyshinycloudy[15351:2163608] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x60000008a5f0 UIImageView:0x7f9f48c14b60.height == 50   (active)>",
+    "<NSLayoutConstraint:0x60000008ab40 UITableViewCellContentView:0x7f9f48c14580.bottomMargin == UIImageView:0x7f9f48c14b60.bottom + 10   (active)>",
+    "<NSLayoutConstraint:0x60000008abe0 UIImageView:0x7f9f48c14b60.top == UITableViewCellContentView:0x7f9f48c14580.topMargin + 10   (active)>",
+    "<NSLayoutConstraint:0x60800008c4e0 'UIView-Encapsulated-Layout-Height' UITableViewCellContentView:0x7f9f48c14580.height == 79.5   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x60000008a5f0 UIImageView:0x7f9f48c14b60.height == 50   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2017-06-19 05:01:59.996795-0400 rainyshinycloudy[15351:2163608] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x60800008c800 UIImageView:0x7f9f48f0dc70.height == 50   (active)>",
+    "<NSLayoutConstraint:0x60800008cda0 UITableViewCellContentView:0x7f9f48f00e60.bottomMargin == UIImageView:0x7f9f48f0dc70.bottom + 10   (active)>",
+    "<NSLayoutConstraint:0x60800008ce40 UIImageView:0x7f9f48f0dc70.top == UITableViewCellContentView:0x7f9f48f00e60.topMargin + 10   (active)>",
+    "<NSLayoutConstraint:0x60800008dc50 'UIView-Encapsulated-Layout-Height' UITableViewCellContentView:0x7f9f48f00e60.height == 79.5   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x60800008c800 UIImageView:0x7f9f48f0dc70.height == 50   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2017-06-19 05:02:00.007419-0400 rainyshinycloudy[15351:2163608] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x60800008df20 UIImageView:0x7f9f48e0db00.height == 50   (active)>",
+    "<NSLayoutConstraint:0x60800008e1f0 UITableViewCellContentView:0x7f9f48e04660.bottomMargin == UIImageView:0x7f9f48e0db00.bottom + 10   (active)>",
+    "<NSLayoutConstraint:0x60800008e290 UIImageView:0x7f9f48e0db00.top == UITableViewCellContentView:0x7f9f48e04660.topMargin + 10   (active)>",
+    "<NSLayoutConstraint:0x60800008f140 'UIView-Encapsulated-Layout-Height' UITableViewCellContentView:0x7f9f48e04660.height == 79.5   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x60800008df20 UIImageView:0x7f9f48e0db00.height == 50   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2017-06-19 05:02:00.020318-0400 rainyshinycloudy[15351:2163608] [LayoutConstraints] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+(
+    "<NSLayoutConstraint:0x60800008f410 UIImageView:0x7f9f48e0e300.height == 50   (active)>",
+    "<NSLayoutConstraint:0x60000008bdb0 UITableViewCellContentView:0x7f9f48e0b640.bottomMargin == UIImageView:0x7f9f48e0e300.bottom + 10   (active)>",
+    "<NSLayoutConstraint:0x60000008be50 UIImageView:0x7f9f48e0e300.top == UITableViewCellContentView:0x7f9f48e0b640.topMargin + 10   (active)>",
+    "<NSLayoutConstraint:0x60000008cd00 'UIView-Encapsulated-Layout-Height' UITableViewCellContentView:0x7f9f48e0b640.height == 79.5   (active)>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x60800008f410 UIImageView:0x7f9f48e0e300.height == 50   (active)>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
